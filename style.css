@@ -28,4 +28,8 @@
   }
   .submit{
     margin-top: 10px;
+    background-color: white;
+    color: black;
+    padding: 10px 50px;
+    border-radius: 10px;
   }
